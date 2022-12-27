@@ -12,4 +12,4 @@ This app will allow a user to generate a random password by selecting the passwo
 
 ## Contact
 
-[Github Repository](https://github.com/bckstrb/password-generator-js)
+[Github Repo](https://github.com/bckstrb/password-generator-js)
